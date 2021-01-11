@@ -1,7 +1,7 @@
 # PHPCart
 Simple framework agnostic shopping cart.
 
-Originally from https://github.com/anam-hossain/phpcart I've released this under my own namespace as I needed support for Laravel 7, at the time of writing this there is an open PR on the original repo which has not been responded to.
+Originally from https://github.com/anam-hossain/phpcart I've released this under my own namespace as I needed support for Laravel 7/8, at the time of writing this there is an open PR on the original repo which has not been responded to.
 
 ## Features
 
@@ -11,7 +11,7 @@ Originally from https://github.com/anam-hossain/phpcart I've released this under
 
 ## Requirements
 
-- PHP 7.2+
+- PHP 7.3+
 
 ## Installation
 PHPCart is available via Composer
