@@ -307,6 +307,7 @@ class Cart implements CartInterface
     /**
      * Alias of clear (Deprecated)
      *
+     * @deprecated
      * @return void
      */
 
